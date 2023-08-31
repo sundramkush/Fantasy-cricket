@@ -1,2 +1,2 @@
 # Fantasy-cricket
-used pyqt, mysql, python
+A simple Cricket based GUI game created using PyQt, MySQL, Python, all learned during an online course.
